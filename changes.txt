@@ -1,5 +1,6 @@
 1.4.4
 - Fixed bug that broke all deformations without weight map
+- R20 Support
 
 1.4.3
 - Only internal changes
